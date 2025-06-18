@@ -27,5 +27,8 @@ This course focuses on practical, offensive security tasks written in Python:
 
 ---
 
-## 🧪 Project Structure
+# Network scanner
+python3 network_scanner.py 192.168.1.1 --start-port 20 --end-port 100
 
+# Directory enumerator
+python3 directory_enum.py http://example.com wordlist.txt --threads 10
