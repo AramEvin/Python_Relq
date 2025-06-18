@@ -38,3 +38,6 @@ python3 subdomain_discovery.py example.com subs.txt --threads 20
 
 # SSH Brute Force
 python3 ssh_bruteforce.py --host 192.168.1.100 --port 22 --users users.txt --passwords passwords.txt --threads 10
+
+# Hash Identifier
+python3 hash_identifier.py --hash "5f4dcc3b5aa765d61d8327deb882cf99"

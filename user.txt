@@ -1,7 +1,0 @@
-admin
-root
-user
-test
-administrator
-nuller
-sadmin
