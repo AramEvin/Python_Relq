@@ -44,3 +44,6 @@ python3 hash_identifier.py --hash "5f4dcc3b5aa765d61d8327deb882cf99"
 
 # Hash Cracker
 python3 hash_cracker.py --hash <hash> --type md5 --wordlist words.txt
+
+# Log Analyzer
+python3 log_analyzer.py --logfile access.log
