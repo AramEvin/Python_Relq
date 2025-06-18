@@ -47,3 +47,6 @@ python3 hash_cracker.py --hash <hash> --type md5 --wordlist words.txt
 
 # Log Analyzer
 python3 log_analyzer.py --logfile access.log
+
+# Phishing Detector Script
+python3 phishing_detector.py --email email.eml
