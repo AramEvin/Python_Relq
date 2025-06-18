@@ -50,3 +50,12 @@ python3 log_analyzer.py --logfile access.log
 
 # Phishing Detector Script
 python3 phishing_detector.py --email email.eml
+
+# PyPloit - Python Exploit Framework
+python3 modules/pyploit.py
+
+use exploit/custom/david/python_bruter
+set RHOST 192.168.1.10
+set USER_FILE users.txt
+set PASS_FILE passwords.txt
+run
